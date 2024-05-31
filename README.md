@@ -1,9 +1,18 @@
-**Sporty bot**
+# Sporty bot
 
-**General description of the project**
-Project's point: telegram bot for players, who need a team for taking part in competitions or just a company for trainings. 
+## General description of the project
 
-**Technical Stack**
-Platform: Telegram bot
-Stack: Telebot
-Database: PostgreSQL
+Project's point: telegram bot for players, 
+who need a team for taking part in competitions 
+or just a company for trainings. 
+
+___
+
+## **Technical Stack**
+* **Platform**: Telegram bot
+* **Stack**: Telebot                                                                          
+* **Database**: PostgreSQL                                                                                     
+
+___
+
+                                                                            
