@@ -11,7 +11,7 @@ ___
 ## Functions
 1. Providing information about the main features of the bot and the main idea behind it
 2. Writing a questionnaire that includes: 
--photo
+- photo
 - city
 - information about yourself
 - sports in which the user wants to find a company with indication of the level of mastery of this sport (beginner, intermediate, advanced level).
